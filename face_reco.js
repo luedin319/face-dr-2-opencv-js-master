@@ -1,5 +1,7 @@
 let model;
 
+//Este es un nuevo comentario 
+
 //openCvReady is the function that will be executed when the opencv.js file is loaded
 function openCvReady() {
     cv['onRuntimeInitialized'] = () => {
